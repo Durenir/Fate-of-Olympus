@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TutorialRequirement
+  - Ground
+  - Boss
+  - Music Slider
+  - SFX Slider
+  - Enemy
+  - Minotaur
+  - BossRock
+  - ReaperBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Foreground
+  - Interactable
+  - Background
+  - Player
+  - Enemies
+  - BossPlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 420473809
+    locked: 0
+  - name: Ground
+    uniqueID: 626108435
+    locked: 0
+  - name: Player
+    uniqueID: 2412513641
+    locked: 0
+  - name: Interactable
+    uniqueID: 2801025723
+    locked: 0
+  - name: Foreground
+    uniqueID: 2525413439
+    locked: 0
